@@ -35,7 +35,8 @@ def show_disclaimer():
 if "seen_disclaimer" not in st.session_state:
     st.session_state["seen_disclaimer"] = False
 
-if not st.session_state["seen_disclaimer"]:
+if not db.is_configured() and not st.session_state["seen_disclaimer"]:
+    st.session_state["seen_disclaimer"] = True
     show_disclaimer()
 
 # 1. Load the persistent store

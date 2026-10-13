@@ -38,7 +38,7 @@ pg = st.navigation([
     epi_curve,
     geographic,
     demographics,
-    outcomes,
+    # outcomes,
     rt_clustering,
     data_quality,
 ])
