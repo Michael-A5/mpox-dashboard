@@ -1,0 +1,391 @@
+/* style.css -- theme-aware stylesheet, NCDC palette, dark/light mode. TODO. */
+/* style.css -- NCDC Mpox Dashboard theme */
+
+:root {
+  --bg-main: #0b0f19;
+  --bg-sidebar: #05070c;
+  --card-bg: #12172a;
+  --card-bg-alt: #161c33;
+  --border: #232a42;
+  --accent: #1dbf83;
+  --accent-dim: #14966a;
+  --confirmed: #e8493b;
+  --probable: #e8b923;
+  --suspected: #1dbf83;
+  --text-primary: #f3f5f8;
+  --text-secondary: #8891a5;
+  --text-muted: #5c6478;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg-main: #f7f8fa;
+    --bg-sidebar: #ffffff;
+    --card-bg: #ffffff;
+    --card-bg-alt: #f0f2f5;
+    --border: #dde1e8;
+    --accent: #14966a;
+    --accent-dim: #1dbf83;
+    --confirmed: #c33f32;
+    --probable: #b8860b;
+    --suspected: #14966a;
+    --text-primary: #1a1f2e;
+    --text-secondary: #4a5265;
+    --text-muted: #7a8296;
+  }
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+  background-color: var(--bg-dark);
+  border-right: 1px solid var(--border);
+}
+
+[data-testid="stSidebar"] a {
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+[data-testid="stSidebar"] a:hover {
+  color: var(--text-primary);
+}
+
+/* Active/current page in sidebar nav */
+[data-testid="stSidebarNav"] a[aria-current="page"] {
+  background-color: var(--ncdc-green);
+  color: #ffffff !important;
+  border-radius: 6px; /* style.css -- NCDC Mpox Watch theme, matches approved wireframe */
+
+  :root {
+    --bg-main: #0b0f19;
+    --bg-sidebar: #05070c;
+    --card-bg: #12172a;
+    --card-bg-alt: #161c33;
+    --border: #232a42;
+
+    --accent: #1dbf83; /* primary teal-green, active states, gauges */
+    --accent-dim: #14966a;
+
+    --confirmed: #e8493b; /* red */
+    --probable: #e8b923; /* amber */
+    --suspected: #1dbf83; /* teal (reuse accent) */
+
+    --text-primary: #f3f5f8;
+    --text-secondary: #8891a5;
+    --text-muted: #5c6478;
+  }
+
+  body,
+  .stApp {
+    background-color: var(--bg-main);
+    color: var(--text-primary);
+  }
+
+  /* Sidebar */
+  [data-testid="stSidebar"] {
+    background-color: var(--bg-sidebar);
+    border-right: 1px solid var(--border);
+  }
+
+  [data-testid="stSidebar"] a {
+    color: var(--text-secondary);
+    font-weight: 500;
+    border-radius: 6px;
+  }
+
+  [data-testid="stSidebar"] a:hover {
+    color: var(--text-primary);
+  }
+
+  [data-testid="stSidebarNav"] a[aria-current="page"] {
+    background-color: rgba(29, 191, 131, 0.12);
+    color: var(--accent) !important;
+    border-left: 3px solid var(--accent);
+  }
+
+  /* Titles */
+  h1,
+  h2,
+  h3 {
+    color: var(--text-primary);
+    font-weight: 700;
+  }
+
+  /* KPI cards -- st.metric */
+  [data-testid="stMetric"] {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+  }
+
+  [data-testid="stMetricLabel"] {
+    color: var(--text-secondary);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  [data-testid="stMetricValue"] {
+    color: var(--text-primary);
+    font-size: 2.1rem;
+    font-weight: 700;
+  }
+
+  [data-testid="stMetricDelta"] {
+    font-size: 0.8rem;
+  }
+
+  /* Semantic accent variants -- wrap st.container in a div with these classes */
+  .card-confirmed {
+    border-left-color: var(--confirmed) !important;
+  }
+  .card-confirmed [data-testid="stMetricValue"] {
+    color: var(--confirmed);
+  }
+
+  .card-suspected {
+    border-left-color: var(--suspected) !important;
+  }
+
+  .card-probable {
+    border-left-color: var(--probable) !important;
+  }
+  .card-probable [data-testid="stMetricValue"] {
+    color: var(--probable);
+  }
+
+  .card-deaths {
+    border-left-color: var(--confirmed) !important;
+  }
+  .card-deaths [data-testid="stMetricValue"] {
+    color: var(--confirmed);
+  }
+
+  
+
+  /* Status strip (last updated / data source line) */
+  .status-strip {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+    background-color: var(--card-bg);
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .status-strip strong {
+    color: var(--text-secondary);
+  }
+
+  /* Panel containers (gauge, epi curve mini, geo mini) */
+  .panel {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem;
+  }
+
+  .panel-title {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--text-secondary);
+    margin-bottom: 0.75rem;
+  }
+
+  /* Tables */
+  [data-testid="stDataFrame"] {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+  }
+
+  /* Buttons -- upload, apply, reset */
+  .stButton > button,
+  [data-testid="stFileUploader"] section {
+    background-color: var(--accent);
+    color: #05070c;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+  }
+
+  /* Tier badges -- Data Quality page (Optimal / Attention / Critical) */
+  .tier-optimal {
+    color: var(--accent);
+  }
+  .tier-attention {
+    color: var(--probable);
+  }
+  .tier-critical {
+    color: var(--confirmed);
+    font-weight: 700;
+  }
+}
+
+/* Welcome banner */
+.welcome-banner {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 10px;
+  padding: 0.85rem 1.25rem;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+.welcome-banner strong {
+  color: var(--text-primary);
+}
+
+/* Date pill, top right */
+.date-pill {
+  display: inline-block;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 0.4rem 1rem;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  background: var(--card-bg);
+  float: right;
+}
+
+/* Section header with icon */
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 1.5rem 0 0.75rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.section-header .icon {
+  color: var(--accent);
+  font-size: 1rem;
+}
+
+/* Executive insight cards */
+.insight-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.85rem 1rem;
+  margin-bottom: 0.6rem;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+.insight-card .insight-icon {
+  color: var(--accent);
+  margin-right: 0.4rem;
+}
+.insight-card strong {
+  color: var(--text-primary);
+}
+
+/* Main title */
+h1 {
+  color: var(--text-primary);
+  font-weight: 700;
+  border-bottom: 3px solid var(--ncdc-green);
+  padding-bottom: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Turn each st.metric into a card */
+[data-testid="stMetric"] {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--ncdc-green);
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+}
+
+[data-testid="stMetricLabel"] {
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+[data-testid="stMetricValue"] {
+  color: var(--text-primary);
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+/* Semantic accents -- add these classes via st.markdown wrappers per card */
+div[class*="st-key-confirmed_card"] [data-testid="stMetric"] {
+    border-left-color: var(--confirmed) !important;
+}
+div[class*="st-key-confirmed_card"] [data-testid="stMetricValue"] {
+    color: var(--confirmed);
+}
+
+div[class*="st-key-suspected_card"] [data-testid="stMetric"] {
+    border-left-color: var(--suspected) !important;
+}
+
+div[class*="st-key-deaths_card"] [data-testid="stMetric"] {
+    border-left-color: var(--confirmed) !important;
+}
+div[class*="st-key-deaths_card"] [data-testid="stMetricValue"] {
+    color: var(--confirmed);
+}
+div[class*="st-key-cfr_card"] [data-testid="stMetric"] {
+  border-left-color: var(--confirmed) !important;
+}
+div[class*="st-key-cfr_card"] [data-testid="stMetricValue"] {
+  color: var(--confirmed);
+}
+div[class*="st-key-demo_confirmed_card"] [data-testid="stMetric"] {
+  border-left-color: var(--confirmed) !important;
+}
+div[class*="st-key-demo_confirmed_card"] [data-testid="stMetricValue"] {
+  color: var(--confirmed);
+}
+
+div[class*="st-key-demo_excluded_card"] [data-testid="stMetric"] {
+  border-left-color: var(--suspected) !important;
+}
+div[class*="st-key-national_cfr_card"] [data-testid="stMetric"] {
+  border-left-color: var(--confirmed) !important;
+}
+div[class*="st-key-national_cfr_card"] [data-testid="stMetricValue"] {
+  color: var(--confirmed);
+}
+
+div[class*="st-key-recovered_card"] [data-testid="stMetric"] {
+  border-left-color: var(--suspected) !important;
+}
+div[class*="st-key-recovered_card"] [data-testid="stMetricValue"] {
+  color: var(--suspected);
+}
+
+div[class*="st-key-deaths_confirmed_card"] [data-testid="stMetric"] {
+  border-left-color: var(--confirmed) !important;
+}
+div[class*="st-key-deaths_confirmed_card"] [data-testid="stMetricValue"] {
+  color: var(--confirmed);
+}
+
+div[class*="st-key-pending_outcome_card"] [data-testid="stMetric"] {
+  border-left-color: var(--probable) !important;
+}
+div[class*="st-key-pending_outcome_card"] [data-testid="stMetricValue"] {
+  color: var(--probable);
+}
+div[class*="st-key-rt_card"] [data-testid="stMetric"] {
+  border-left-color: var(--accent) !important;
+}
+div[class*="st-key-rt_mini_card"] [data-testid="stMetric"] {
+  border-left-color: var(--accent) !important;
+}

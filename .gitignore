@@ -1,0 +1,10 @@
+cat > .gitignore << 'EOF'
+.env
+data/merged_line_list.parquet
+data/.disclaimer_seen
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.venv/
+.vscode/
+EOF

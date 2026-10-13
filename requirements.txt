@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+altair
+scipy
+epyestim
+sqlalchemy
+pg8000
+python-dotenv
+pyarrow

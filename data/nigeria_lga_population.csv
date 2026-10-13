@@ -1,0 +1,774 @@
+STATE,LGA,population_2022
+Abia,Aba North,155600
+Abia,Aba South,622400
+Abia,Arochukwu,246600
+Abia,Bende,280500
+Abia,Ikwuano,200800
+Abia,Isiala-Ngwa North,224400
+Abia,Isiala-Ngwa South,199000
+Abia,Isuikwuato,168600
+Abia,Obi Ngwa,264900
+Abia,Ohafia,358200
+Abia,Osisioma Ngwa,321300
+Abia,Ugwunagbo,124300
+Abia,Ukwa East,84700
+Abia,Ukwa West,127200
+Abia,Umuahia North,324900
+Abia,Umuahia South,202500
+Abia,Umu-Nneochi,237500
+Adamawa,Demsa,275100
+Adamawa,Fufore,323000
+Adamawa,Ganye,262100
+Adamawa,Girei,200200
+Adamawa,Gombi,227900
+Adamawa,Guyuk,272200
+Adamawa,Hong,260900
+Adamawa,Jada,259700
+Adamawa,Lamurde,171600
+Adamawa,Madagali,208400
+Adamawa,Maiha,169900
+Adamawa,Mayo-Belwa,235600
+Adamawa,Michika,239400
+Adamawa,Mubi North,233600
+Adamawa,Mubi South,200400
+Adamawa,Numan,141200
+Adamawa,Shelleng,229000
+Adamawa,Song,301000
+Adamawa,Toungo,80500
+Adamawa,Yola North,307900
+Adamawa,Yola South,302500
+Akwa Ibom,Abak,177500
+Akwa Ibom,Eastern Obolo,76500
+Akwa Ibom,Eket,220600
+Akwa Ibom,Esit Eket,80900
+Akwa Ibom,Essien Udim,246600
+Akwa Ibom,Etim Ekpo,135200
+Akwa Ibom,Etinan,215600
+Akwa Ibom,Ibeno,95500
+Akwa Ibom,Ibesikpo Asutan,175000
+Akwa Ibom,Ibiono Ibom,240700
+Akwa Ibom,Ika,92900
+Akwa Ibom,Ikono,168000
+Akwa Ibom,Ikot Abasi,169200
+Akwa Ibom,Ikot Ekpene,180500
+Akwa Ibom,Ini,126400
+Akwa Ibom,Itu,163200
+Akwa Ibom,Mbo,130400
+Akwa Ibom,Mkpat Enin,226200
+Akwa Ibom,Nsit Atai,93700
+Akwa Ibom,Nsit Ibom,137900
+Akwa Ibom,Nsit Ubium,162200
+Akwa Ibom,Obot Akara,188000
+Akwa Ibom,Okobo,131100
+Akwa Ibom,Onna,157200
+Akwa Ibom,Oron,111300
+Akwa Ibom,Oruk Anam,219300
+Akwa Ibom,Udung Uko,67700
+Akwa Ibom,Ukanafun,160100
+Akwa Ibom,Uruan,149500
+Akwa Ibom,Urue-Offong/Oruko,90300
+Akwa Ibom,Uyo,390400
+Anambra,Aguata,527200
+Anambra,Anambra East,216800
+Anambra,Anambra West,238400
+Anambra,Anaocha,405000
+Anambra,Awka North,159900
+Anambra,Awka South,270300
+Anambra,Ayamelum,225400
+Anambra,Dunukofia,137500
+Anambra,Ekwusigo,225800
+Anambra,Idemili North,614200
+Anambra,Idemili South,294700
+Anambra,Ihiala,430800
+Anambra,Njikoka,211500
+Anambra,Nnewi North,221500
+Anambra,Nnewi South,332500
+Anambra,Ogbaru,318200
+Anambra,Onitsha North,179400
+Anambra,Onitsha South,195500
+Anambra,Orumba North,246200
+Anambra,Orumba South,263000
+Anambra,Oyi,239700
+Bauchi,Alkaleri,586200
+Bauchi,Bauchi,881600
+Bauchi,Bogoro,149700
+Bauchi,Damban,268200
+Bauchi,Darazo,446300
+Bauchi,Dass,160900
+Bauchi,Gamawa,507900
+Bauchi,Ganjuwa,497300
+Bauchi,Giade,278600
+Bauchi,Itas/Gadau,408100
+Bauchi,Jama'are,209800
+Bauchi,Katagum,523200
+Bauchi,Kirfi,260100
+Bauchi,Misau,466800
+Bauchi,Ningi,689300
+Bauchi,Shira,417800
+Bauchi,Tafawa-Balewa,395200
+Bauchi,Toro,617800
+Bauchi,Warji,205300
+Bauchi,Zaki,338700
+Bayelsa,Brass,274100
+Bayelsa,Ekeremor,401300
+Bayelsa,Kolokuma/Opokuma,118000
+Bayelsa,Nembe,195000
+Bayelsa,Ogbia,267400
+Bayelsa,Sagbama,278200
+Bayelsa,Southern Ijaw,479000
+Bayelsa,Yenagoa,524400
+Benue,Ado,266200
+Benue,Agatu,166900
+Benue,Apa,139700
+Benue,Buruku,297700
+Benue,Gboko,521700
+Benue,Guma,280300
+Benue,Gwer East,243500
+Benue,Gwer West,176600
+Benue,Katsina-Ala,325500
+Benue,Konshisha,327000
+Benue,Kwande,359000
+Benue,Logo,244800
+Benue,Makurdi,433700
+Benue,Obi,142500
+Benue,Ogbadibo,189100
+Benue,Ohimini,102100
+Benue,Oju,243300
+Benue,Okpokwu,253500
+Benue,Oturkpo,384600
+Benue,Tarka,114500
+Benue,Ukum,313300
+Benue,Ushongo,277100
+Benue,Vandeikya,338700
+Borno,Abadam,146600
+Borno,Askira/Uba,210000
+Borno,Bama,395800
+Borno,Bayo,115900
+Borno,Biu,257500
+Borno,Chibok,97200
+Borno,Damboa,341700
+Borno,Dikwa,153900
+Borno,Gubio,221700
+Borno,Guzamala,140600
+Borno,Gwoza,405200
+Borno,Hawul,176900
+Borno,Jere,306400
+Borno,Kaga,131900
+Borno,Kala/Balge,89100
+Borno,Konduga,230500
+Borno,Kukawa,297900
+Borno,Kwaya Kusar,83100
+Borno,Mafa,151800
+Borno,Magumeri,205500
+Borno,Maiduguri,791200
+Borno,Marte,189600
+Borno,Mobbar,170900
+Borno,Monguno,160900
+Borno,Ngala,346500
+Borno,Nganzai,145200
+Borno,Shani,148000
+Cross River,Abi,219800
+Cross River,Akamkpa,228000
+Cross River,Akpabuyo,414700
+Cross River,Bekwara,160700
+Cross River,Biase,256000
+Cross River,Boki,284200
+Cross River,Calabar Municipal,279800
+Cross River,Calabar South,291700
+Cross River,Etung,121900
+Cross River,Ikom,249300
+Cross River,Obanliku,167000
+Cross River,Obubra,262800
+Cross River,Obudu,245900
+Cross River,Odukpani,293800
+Cross River,Ogoja,261300
+Cross River,Yakurr,298900
+Cross River,Yala,322200
+Delta,Aniocha North,142600
+Delta,Aniocha South,194700
+Delta,Bomadi,117900
+Delta,Burutu,285000
+Delta,Ethiope East,275400
+Delta,Ethiope West,277800
+Delta,Ika North East,250600
+Delta,Ika South,229000
+Delta,Isoko North,196700
+Delta,Isoko South,322300
+Delta,Ndokwa East,141500
+Delta,Ndokwa West,205600
+Delta,Okpe,176000
+Delta,Oshimili North,162500
+Delta,Oshimili South,205600
+Delta,Patani,92400
+Delta,Sapele,238800
+Delta,Udu,195300
+Delta,Ughelli North,439500
+Delta,Ughelli South,291400
+Delta,Ukwuani,163100
+Delta,Uvwie,258700
+Delta,Warri North,186600
+Delta,Warri South,427600
+Delta,Warri South West,159700
+Ebonyi,Abakaliki,223000
+Ebonyi,Afikpo North,233300
+Ebonyi,Afikpo South,234700
+Ebonyi,Ebonyi,189500
+Ebonyi,Ezza North,217700
+Ebonyi,Ezza South,199000
+Ebonyi,Ikwo,320200
+Ebonyi,Ishielu,227300
+Ebonyi,Ivo,180800
+Ebonyi,Izzi,352500
+Ebonyi,Ohaozara,220900
+Ebonyi,Ohaukwu,291300
+Ebonyi,Onicha,352400
+Edo,Akoko-Edo,386400
+Edo,Egor,502700
+Edo,Esan Central,155500
+Edo,Esan North East,180200
+Edo,Esan South East,245700
+Edo,Esan West,188700
+Edo,Etsako Central,139200
+Edo,Etsako East,217700
+Edo,Etsako West,294000
+Edo,Igueben,103800
+Edo,Ikpoba-Okha,549700
+Edo,Oredo,553300
+Edo,Orhionmwon,271800
+Edo,Ovia North East,229500
+Edo,Ovia South West,204000
+Edo,Owan East,228500
+Edo,Owan West,146300
+Edo,Uhunmwonde,179900
+Ekiti,Ado Ekiti,469700
+Ekiti,Aiyekire (Gbonyin),221600
+Ekiti,Efon,130600
+Ekiti,Ekiti East,207100
+Ekiti,Ekiti South West,247200
+Ekiti,Ekiti West,268900
+Ekiti,Emure,141200
+Ekiti,Ido-Osi,239600
+Ekiti,Ijero,332200
+Ekiti,Ikere,222400
+Ekiti,Ikole,255200
+Ekiti,Ilejemeje,65100
+Ekiti,Irepodun/Ifelodun,196700
+Ekiti,Ise/Orun,170600
+Ekiti,Moba,217700
+Ekiti,Oye,206300
+Enugu,Aninri,195500
+Enugu,Awgu,283200
+Enugu,Enugu East,397700
+Enugu,Enugu North,347500
+Enugu,Enugu South,284200
+Enugu,Ezeagu,244900
+Enugu,Igbo-Etiti,299000
+Enugu,Igbo-Eze North,371500
+Enugu,Igbo-Eze South,211500
+Enugu,Isi-Uzo,213300
+Enugu,Nkanu East,220400
+Enugu,Nkanu West,211500
+Enugu,Nsukka,444100
+Enugu,Oji-River,184800
+Enugu,Udenu,256500
+Enugu,Udi,342000
+Enugu,Uzo-Uwani,182500
+FCT,Abaji,127900
+FCT,Abuja Municipal Area Council,1693400
+FCT,Bwari,500100
+FCT,Gwagwalada,346000
+FCT,Kuje,212100
+FCT,Kwali,188000
+Gombe,Akko,565000
+Gombe,Balanga,354100
+Gombe,Billiri,339400
+Gombe,Dukku,347700
+Gombe,Funakaye,398000
+Gombe,Gombe,446800
+Gombe,Kaltungo,268600
+Gombe,Kwami,324800
+Gombe,Nafada,234700
+Gombe,Shomgom,252800
+Gombe,Yamaltu/Deba,428200
+Imo,Abo-Mbaise,270700
+Imo,Ahiazu-Mbaise,237400
+Imo,Ehime-Mbano,181500
+Imo,Ezinihitte,234600
+Imo,Ideato North,217100
+Imo,Ideato South,221900
+Imo,Ihitte/Uboma,166000
+Imo,Ikeduru,208100
+Imo,Isiala-Mbano,275100
+Imo,Isu,228400
+Imo,Mbaitoli,330100
+Imo,Ngor-Okpala,219400
+Imo,Njaba,199400
+Imo,Nkwerre,111600
+Imo,Nwangele,177500
+Imo,Obowo,163200
+Imo,Oguta,197900
+Imo,Ohaji/Egbema,254200
+Imo,Okigwe,184500
+Imo,Orlu,198500
+Imo,Orsu,167100
+Imo,Oru East,155300
+Imo,Oru West,160800
+Imo,Owerri Municipal,174200
+Imo,Owerri North,245100
+Imo,Owerri West,141400
+Imo,Unuimo,138100
+Jigawa,Auyo,227400
+Jigawa,Babura,366200
+Jigawa,Biriniwa,244200
+Jigawa,Birnin Kudu,540100
+Jigawa,Buji,167300
+Jigawa,Dutse,431800
+Jigawa,Gagarawa,141300
+Jigawa,Garki,258400
+Jigawa,Gumel,182900
+Jigawa,Guri,194900
+Jigawa,Gwaram,466600
+Jigawa,Gwiwa,221400
+Jigawa,Hadejia,179300
+Jigawa,Jahun,395300
+Jigawa,Kafin Hausa,459600
+Jigawa,Kaugama,221800
+Jigawa,Kazaure,277100
+Jigawa,Kiri Kasama,331200
+Jigawa,Kiyawa,297400
+Jigawa,Maigatari,304500
+Jigawa,Malam Madori,283400
+Jigawa,Miga,219900
+Jigawa,Ringim,330900
+Jigawa,Roni,133100
+Jigawa,Sule Tankarkar,231800
+Jigawa,Taura,226700
+Jigawa,Yankwashi,164500
+Kaduna,Birnin-Gwari,382000
+Kaduna,Chikun,550000
+Kaduna,Giwa,432000
+Kaduna,Igabi,636400
+Kaduna,Ikara,287700
+Kaduna,Jaba,230400
+Kaduna,Jema'a,411000
+Kaduna,Kachia,373100
+Kaduna,Kaduna North,538600
+Kaduna,Kaduna South,595000
+Kaduna,Kagarko,353200
+Kaduna,Kajuru,162200
+Kaduna,Kaura,258000
+Kaduna,Kauru,326900
+Kaduna,Kubau,414700
+Kaduna,Kudan,205300
+Kaduna,Lere,501900
+Kaduna,Makarfi,216600
+Kaduna,Sabon-Gari,430500
+Kaduna,Sanga,223800
+Kaduna,Soba,430200
+Kaduna,Zangon-Kataf,471300
+Kaduna,Zaria,601300
+Kano,Ajingi,283900
+Kano,Albasu,308600
+Kano,Bagwai,265700
+Kano,Bebeji,315600
+Kano,Bichi,457700
+Kano,Bunkure,286900
+Kano,Dala,688700
+Kano,Dambatta,346200
+Kano,Dawakin Kudu,370900
+Kano,Dawakin Tofa,404900
+Kano,Doguwa,247800
+Kano,Fagge,329100
+Kano,Gabasawa,347400
+Kano,Garko,266400
+Kano,Garum Mallam,195100
+Kano,Gaya,341100
+Kano,Gezawa,464300
+Kano,Gwale,588500
+Kano,Gwarzo,302000
+Kano,Kabo,251900
+Kano,Kano Municipal,610600
+Kano,Karaye,236900
+Kano,Kibiya,228000
+Kano,Kiru,439400
+Kano,Kumbotso,484200
+Kano,Kunchi,181200
+Kano,Kura,235300
+Kano,Madobi,226400
+Kano,Makoda,362000
+Kano,Minjibir,361200
+Kano,Nasarawa,980900
+Kano,Rano,243900
+Kano,Rimin Gado,170000
+Kano,Rogo,374300
+Kano,Shanono,228800
+Kano,Sumaila,411800
+Kano,Takai,333300
+Kano,Tarauni,364900
+Kano,Tofa,162200
+Kano,Tsanyawa,259400
+Kano,Tudun Wada,376100
+Kano,Ungogo,601500
+Kano,Warawa,216900
+Kano,Wudil,310300
+Katsina,Bakori,267200
+Katsina,Batagarawa,337900
+Katsina,Batsari,371500
+Katsina,Baure,362700
+Katsina,Bindawa,269900
+Katsina,Charanchi,244800
+Katsina,Dandume,259700
+Katsina,Danja,224300
+Katsina,Dan Musa,202300
+Katsina,Daura,401900
+Katsina,Dutsi,216100
+Katsina,Dutsin-Ma,303500
+Katsina,Faskari,347400
+Katsina,Funtua,402400
+Katsina,Ingawa,302300
+Katsina,Jibia,299200
+Katsina,Kafur,374200
+Katsina,Kaita,326000
+Katsina,Kankara,434700
+Katsina,Kankia,270600
+Katsina,Katsina,568600
+Katsina,Kurfi,208600
+Katsina,Kusada,175800
+Katsina,Mai'adua,360700
+Katsina,Malumfashi,326900
+Katsina,Mani,315100
+Katsina,Mashi,305700
+Katsina,Matazu,203400
+Katsina,Musawa,303800
+Katsina,Rimi,275400
+Katsina,Sabuwa,251400
+Katsina,Safana,331000
+Katsina,Sandamu,244700
+Katsina,Zango,278900
+Kebbi,Aleiro,114600
+Kebbi,Arewa-Dandi,324200
+Kebbi,Argungu,342100
+Kebbi,Augie,198800
+Kebbi,Bagudo,406700
+Kebbi,Birnin Kebbi,458900
+Kebbi,Bunza,211100
+Kebbi,Dandi,249800
+Kebbi,Fakai,204600
+Kebbi,Gwandu,258100
+Kebbi,Jega,337900
+Kebbi,Kalgo,145100
+Kebbi,Koko/Besse,264500
+Kebbi,Maiyama,296900
+Kebbi,Ngaski,215400
+Kebbi,Sakaba,156700
+Kebbi,Shanga,217200
+Kebbi,Suru,253700
+Kebbi,Wasagu/Danko,453200
+Kebbi,Yauri,171800
+Kebbi,Zuru,282500
+Kogi,Adavi,292800
+Kogi,Ajaokuta,165000
+Kogi,Ankpa,358800
+Kogi,Bassa,188300
+Kogi,Dekina,351700
+Kogi,Ibaji,171900
+Kogi,Idah,107500
+Kogi,Igalamela-Odolu,198200
+Kogi,Ijumu,159800
+Kogi,Kabba/Bunu,194900
+Kogi,Kogi,155100
+Kogi,Lokoja,265000
+Kogi,Mopa-Muro,59000
+Kogi,Ofu,258100
+Kogi,Ogori/Magongo,53700
+Kogi,Okehi,301300
+Kogi,Okene,438900
+Kogi,Olamaboro,213600
+Kogi,Omala,145500
+Kogi,Yagba East,199000
+Kogi,Yagba West,188600
+Kwara,Asa,187200
+Kwara,Baruten,310300
+Kwara,Edu,302700
+Kwara,Ekiti,81700
+Kwara,Ifelodun,307700
+Kwara,Ilorin East,311500
+Kwara,Ilorin South,314100
+Kwara,Ilorin West,548300
+Kwara,Irepodun,221600
+Kwara,Isin,89300
+Kwara,Kaiama,186200
+Kwara,Moro,163200
+Kwara,Offa,133600
+Kwara,Oke-Ero,85500
+Kwara,Oyun,141800
+Kwara,Pategi,166400
+Lagos,Agege,683600
+Lagos,Ajeromi-Ifelodun,1017500
+Lagos,Alimosho,1953500
+Lagos,Amuwo-Odofin,487000
+Lagos,Apapa,330100
+Lagos,Badagry,351900
+Lagos,Epe,269000
+Lagos,Eti-Osa,420100
+Lagos,Ibeju/Lekki,174400
+Lagos,Ifako-Ijaye,633200
+Lagos,Ikeja,470200
+Lagos,Ikorodu,781500
+Lagos,Kosofe,1010800
+Lagos,Lagos Island,314900
+Lagos,Lagos Mainland,483600
+Lagos,Mushin,935400
+Lagos,Ojo,901800
+Lagos,Oshodi-Isolo,931300
+Lagos,Shomolu,597400
+Lagos,Surulere,744400
+Nasarawa,Akwanga,172800
+Nasarawa,Awe,174600
+Nasarawa,Doma,214600
+Nasarawa,Karu,333800
+Nasarawa,Keana,126300
+Nasarawa,Keffi,142900
+Nasarawa,Kokona,167600
+Nasarawa,Lafia,509300
+Nasarawa,Nasarawa,289000
+Nasarawa,Nasarawa-Eggon,229100
+Nasarawa,Obi,230000
+Nasarawa,Toto,183800
+Nasarawa,Wamba,112200
+Niger,Agaie,226600
+Niger,Agwara,98400
+Niger,Bida,318300
+Niger,Borgu,296500
+Niger,Bosso,254100
+Niger,Chanchaga,346700
+Niger,Edati,274100
+Niger,Gbako,217600
+Niger,Gurara,155900
+Niger,Katcha,207400
+Niger,Kontagora,260700
+Niger,Lapai,200700
+Niger,Lavun,359800
+Niger,Magama,311300
+Niger,Mariga,342400
+Niger,Mashegu,369100
+Niger,Mokwa,416600
+Niger,Muya,177500
+Niger,Paikoro,271300
+Niger,Rafi,319200
+Niger,Rijau,302200
+Niger,Shiroro,404200
+Niger,Suleja,368900
+Niger,Tafa,143900
+Niger,Wushishi,140200
+Ogun,Abeokuta North,338100
+Ogun,Abeokuta South,425700
+Ogun,Ado-Odo/Ota,896700
+Ogun,Ewekoro,93700
+Ogun,Ifo,917000
+Ogun,Ijebu East,185900
+Ogun,Ijebu North,477100
+Ogun,Ijebu North East,117000
+Ogun,Ijebu Ode,267300
+Ogun,Ikenne,202600
+Ogun,Imeko Afon,141100
+Ogun,Ipokia,255800
+Ogun,Obafemi-Owode,399800
+Ogun,Odeda,186300
+Ogun,Odogbolu,213700
+Ogun,Ogun Waterside,126200
+Ogun,Remo North,101600
+Ogun,Sagamu,435200
+Ogun,Yewa North (Egbado North),312700
+Ogun,Yewa South (Egbado South),286300
+Ondo,Akoko North East,275100
+Ondo,Akoko North West,325500
+Ondo,Akoko South East,126600
+Ondo,Akoko South West,350800
+Ondo,Akure North,200900
+Ondo,Akure South,553400
+Ondo,Ese-Odo,243100
+Ondo,Idanre,199400
+Ondo,Ifedore,270900
+Ondo,Ilaje,445200
+Ondo,Ile-Oluji-Okeigbo,264000
+Ondo,Irele,221400
+Ondo,Odigbo,356800
+Ondo,Okitipupa,359700
+Ondo,Ondo East,116900
+Ondo,Ondo West,443800
+Ondo,Ose,221400
+Ondo,Owo,341400
+Osun,Aiyedaade,194200
+Osun,Aiyedire,99100
+Osun,Atakunmosa East,98800
+Osun,Atakunmosa West,88700
+Osun,Boluwaduro,92100
+Osun,Boripe,180100
+Osun,Ede North,108800
+Osun,Ede South,98000
+Osun,Egbedore,96000
+Osun,Ejigbo,172000
+Osun,Ife Central,217100
+Osun,Ifedayo,48700
+Osun,Ife East,244900
+Osun,Ifelodun,125200
+Osun,Ife North,199000
+Osun,Ife South,174600
+Osun,Ila,80600
+Osun,Ilesha East,136800
+Osun,Ilesha West,138700
+Osun,Irepodun,155200
+Osun,Irewole,185400
+Osun,Isokan,132500
+Osun,Iwo,248400
+Osun,Obokun,151700
+Osun,Odo-Otin,171500
+Osun,Ola-Oluwa,99000
+Osun,Olorunda,170900
+Osun,Oriade,192600
+Osun,Orolu,133500
+Osun,Osogbo,201900
+Oyo,Afijio,188900
+Oyo,Akinyele,302700
+Oyo,Atiba,240500
+Oyo,Atisbo,157200
+Oyo,Egbeda,405400
+Oyo,Ibadan North,440400
+Oyo,Ibadan North East,473700
+Oyo,Ibadan North West,220100
+Oyo,Ibadan South East,380800
+Oyo,Ibadan South West,404600
+Oyo,Ibarapa Central,147600
+Oyo,Ibarapa East,167500
+Oyo,Ibarapa North,143300
+Oyo,Ido,148800
+Oyo,Irepo,173300
+Oyo,Iseyin,365300
+Oyo,Itesiwaju,182100
+Oyo,Iwajowa,147000
+Oyo,Kajola,286600
+Oyo,Lagelu,211700
+Oyo,Ogbomosho North,284200
+Oyo,Ogbomosho South,143500
+Oyo,Ogo Oluwa,93200
+Oyo,Olorunsogo,116200
+Oyo,Oluyole,290800
+Oyo,Ona-Ara,379500
+Oyo,Orelope,148600
+Oyo,Ori Ire,213500
+Oyo,Oyo East,177400
+Oyo,Oyo West,195000
+Oyo,Saki East,155700
+Oyo,Saki West,390500
+Oyo,Surulere,200600
+Plateau,Barkin Ladi,264500
+Plateau,Bassa,279300
+Plateau,Bokkos,264100
+Plateau,Jos East,129900
+Plateau,Jos North,643200
+Plateau,Jos South,458100
+Plateau,Kanam,246600
+Plateau,Kanke,182800
+Plateau,Langtang North,209400
+Plateau,Langtang South,154700
+Plateau,Mangu,442100
+Plateau,Mikang,141800
+Plateau,Pankshin,279700
+Plateau,Qua'an Pan,290200
+Plateau,Riyom,193900
+Plateau,Shendam,301800
+Plateau,Wase,235200
+Rivers,Abua - Odual,406200
+Rivers,Ahoada East,239200
+Rivers,Ahoada West,358400
+Rivers,Akuku Toru,231700
+Rivers,Andoni,313400
+Rivers,Asari-Toru,316100
+Rivers,Bonny,309200
+Rivers,Degema,358800
+Rivers,Eleme,273500
+Rivers,Emuoha,289200
+Rivers,Etche,359500
+Rivers,Gokana,336300
+Rivers,Ikwerre,271700
+Rivers,Khana,421300
+Rivers,Obio/Akpor,665000
+Rivers,Ogba - Egbema - Ndoni,407400
+Rivers,Ogu - Bolo,108300
+Rivers,Okrika,319700
+Rivers,Omumma,144400
+Rivers,Opobo - Nkoro,219800
+Rivers,Oyigbo,180300
+Rivers,Port-Harcourt,774600
+Rivers,Tai,173000
+Sokoto,Binji,180000
+Sokoto,Bodinga,300900
+Sokoto,Dange Shuni,333900
+Sokoto,Gada,429900
+Sokoto,Goronyo,314300
+Sokoto,Gudu,164700
+Sokoto,Gwadabawa,399700
+Sokoto,Illela,259100
+Sokoto,Isa,259400
+Sokoto,Kebbe,212600
+Sokoto,Kware,231400
+Sokoto,Rabah,257400
+Sokoto,Sabon Birni,358100
+Sokoto,Shagari,270800
+Sokoto,Silame,180500
+Sokoto,Sokoto North,402200
+Sokoto,Sokoto South,341200
+Sokoto,Tambuwal,389900
+Sokoto,Tangaza,198100
+Sokoto,Tureta,118100
+Sokoto,Wamakko,309400
+Sokoto,Wurno,280300
+Sokoto,Yabo,199000
+Taraba,Ardo-Kola,138100
+Taraba,Bali,332000
+Taraba,Donga,209400
+Taraba,Gashaka,137100
+Taraba,Gassol,385500
+Taraba,Ibi,132600
+Taraba,Jalingo,220700
+Taraba,Karim-Lamido,305100
+Taraba,Kurmi,143600
+Taraba,Lau,149700
+Taraba,Sardauna,352900
+Taraba,Takum,211700
+Taraba,Ussa,143000
+Taraba,Wukari,374800
+Taraba,Yorro,141400
+Taraba,Zing,200900
+Yobe,Bade,219800
+Yobe,Bursari,172500
+Yobe,Damaturu,137900
+Yobe,Fika,215000
+Yobe,Fune,474700
+Yobe,Geidam,244900
+Yobe,Gujba,204100
+Yobe,Gulani,162700
+Yobe,Jakusko,365500
+Yobe,Karasuwa,165900
+Yobe,Machina,95900
+Yobe,Nangere,137600
+Yobe,Nguru,236900
+Yobe,Potiskum,322100
+Yobe,Tarmua,122100
+Yobe,Yunusari,198000
+Yobe,Yusufari,174100
+Zamfara,Anka,255500
+Zamfara,Bakura,332900
+Zamfara,Birnin Magaji,327500
+Zamfara,Bukkuyum,384900
+Zamfara,Bungudu,460200
+Zamfara,Gummi,367800
+Zamfara,Gusau,682700
+Zamfara,Kaura Namoda,507700
+Zamfara,Maradun,369300
+Zamfara,Maru,521500
+Zamfara,Shinkafi,241900
+Zamfara,Talata Mafara,383700
+Zamfara,Tsafe,474900
+Zamfara,Zurmi,523000
